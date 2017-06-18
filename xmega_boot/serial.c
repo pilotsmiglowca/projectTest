@@ -1,6 +1,7 @@
 #include "serial.h"
 #include <avr/pgmspace.h>
 
+// xxxx
 bool usart_set_baudrate(USART_t * const usart, uint32_t baud, uint32_t cpu_hz)
 {
 	int8_t exp;
