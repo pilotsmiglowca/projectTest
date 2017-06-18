@@ -2,6 +2,8 @@
 #include <avr/pgmspace.h>
 
 // gggg
+// xxxx
+// yyyy
 bool usart_set_baudrate(USART_t * const usart, uint32_t baud, uint32_t cpu_hz)
 {
 	int8_t exp;
