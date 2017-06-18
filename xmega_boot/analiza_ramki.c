@@ -446,7 +446,7 @@ int odejmowanie(int a, int b)
 }
 
 
-int dzielenie()
+int dzielenie(int a, int b)
 {
 	//TODO trzeba to zrobiæ!!!
 	return;
