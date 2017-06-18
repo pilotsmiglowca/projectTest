@@ -4,7 +4,7 @@
 #include "crc_check.h"
 #include "analiza_ramki.h"
 #include "Procesor.h"
-
+//branch master
 volatile uint16_t dlugosc=0;
 uint8_t tablica_pomocnicza[BUFOR_RAMKI];
 uint16_t crc;
