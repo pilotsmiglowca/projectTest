@@ -55,7 +55,7 @@
  * (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF
  * THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  *****************************************************************************/
-
+//branch A
 #include "eeprom_driver.h"
 
 /*! \brief Write one byte to EEPROM using IO mapping.
