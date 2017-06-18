@@ -440,5 +440,10 @@ int TEST_algorytmu_analizy_ramek(void)
 	
 }
 
+int odejmowanie(int a, int b)
+{ 
+	return a-b;
+}
+
 
 #endif
