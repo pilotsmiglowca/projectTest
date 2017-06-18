@@ -446,4 +446,11 @@ int odejmowanie(int a, int b)
 }
 
 
+int dzielenie()
+{
+	//TODO trzeba to zrobiæ!!!
+	return;
+	
+}
+
 #endif
