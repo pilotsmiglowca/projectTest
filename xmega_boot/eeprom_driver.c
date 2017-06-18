@@ -57,7 +57,7 @@
  *****************************************************************************/
 
 #include "eeprom_driver.h"
-
+// branch B
 /*! \brief Write one byte to EEPROM using IO mapping.
  *
  *  This function writes one byte to EEPROM using IO-mapped access.
