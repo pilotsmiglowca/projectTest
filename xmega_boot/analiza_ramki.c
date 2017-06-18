@@ -68,6 +68,17 @@ uint8_t analizaRamki(uint8_t *bufor, struct ramka_t *objRamka)
 	return 0;
 }
 
+void deepAnalision(int cm)
+{
+	if( cm > 20 )
+		; //auaa
+	else
+	if( cm > 8)
+		; //normal
+	else
+		; //imposible
+}
+
 void analizaDanych(struct ramka_t* ramka,struct dane_z_ramki_t *dane_z_ramki)
 {
 	uint16_t index=0;
